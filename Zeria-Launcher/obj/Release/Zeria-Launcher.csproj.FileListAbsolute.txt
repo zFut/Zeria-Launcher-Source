@@ -1,0 +1,8 @@
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\bin\Release\Zeria-Launcher.exe.config
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\bin\Release\Zeria-Launcher.exe
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\bin\Release\Zeria-Launcher.pdb
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\obj\Release\Zeria-Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\obj\Release\Zeria_Launcher.Properties.Resources.resources
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\obj\Release\Zeria-Launcher.csproj.GenerateResource.Cache
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\obj\Release\Zeria-Launcher.exe
+C:\Users\Troll212420\documents\visual studio 2013\Projects\Zeria-Launcher\Zeria-Launcher\obj\Release\Zeria-Launcher.pdb
